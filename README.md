@@ -19,8 +19,7 @@ Our main contributions are summarized as follows:
 
 **3. Proposed Model**
 ----------------------
-
-###3.1 Network Archetecture
+3.1 Network Archetecture
 
 ![Image text](https://gitlab.com/dianachu1026/img/-/raw/main/model.jpg)
 
@@ -28,8 +27,7 @@ Our main contributions are summarized as follows:
 
 **4. Experiments**
 ----------------------
-
-###4.1 Experimental Setup
+4.1 Experimental Setup
 
 - Dataset: We conducted experiments on the Hateful Memes (HM) dataset compiled by Facebook AI. Based on zero shot learing setting, we re-splited the dataset and completed experiments in different unseen categories. The detailed information is shown blow. 
 
@@ -38,20 +36,21 @@ Our main contributions are summarized as follows:
 - Multimodel and semantic features: 
 
 
-
-###4.2 Experimental Results
+4.2 Experimental Results
 
 ![Image text](https://gitlab.com/dianachu1026/img/-/raw/main/visualbert.jpg)
 
 
 **5. Timeline**
 ----------------------
-
 Due Date: 11 Oct 2021 (WWW2022)
 
 week 1(9.10-9.16): Get the results of proposed model and supplementary experiments.
+
 week 2(9.17-9.23): Experiments and paper writing
+
 week 3(9.24-9.30): Experiments and paper writing
+
 week 4(10.1-10.7): Experiments and paper writing
 
 
