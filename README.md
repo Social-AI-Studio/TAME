@@ -14,7 +14,7 @@ Our main contributions are summarized as follows:
 3.1 Problem Task Definition
 
 3.2 Network Archetecture
-![Image text](https://gitlab.com/dianachu1026/img/-/raw/master/main/model.jpg)
+![Image text](https://gitlab.com/dianachu1026/img/-/raw/main/model.jpg)
 
 4. Experiments
 4.1 Experimental Setup
