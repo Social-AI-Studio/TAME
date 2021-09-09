@@ -1,5 +1,6 @@
 # Zero Shot Multimodal Hateful Content Classification
-> **1. Introduction**
+**1. Introduction**
+----------------------
 
 The hateful meme is a particular form to express insulting information in social media platforms such as Facebook and Tweet using multimodel internet memes, which are defined by images overlaid with text. Detecting hateful memes is a difficult problem, as it often relies heavily on context, requires a very specific combination of information from different modalities (the text and the image). Sometimes it is easy for humans
 to detect, but challenging to AI models. It is also an significant problem to mitigate the side effect of hateful memes, as it has the potential to affect everyone in our society. However, there are varieties of abusive meanings in the world, the performance of machine learning approaches often suffer labeled data scarcity. To address those problems, we aim to integrate the hateful memes classification task into a zero-shot learning setting, where we trained the model to learn related knowledge from given hateful memes samples (from seen categories) and distinguish if the target hateful memes samples (from unseen categories) are hateful based on learned information.
