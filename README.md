@@ -14,7 +14,7 @@ Our main contributions are summarized as follows:
 3.1 Problem Task Definition
 
 3.2 Network Archetecture
-![Image text](https://gitlab.com/bottle_shop/safe/zero-shot/-/blob/main/img/model.jpg)
+![Image text](https://gitlab.com/bottle_shop/safe/zero-shot/-/blob/main/img/raw/master/model.jpg)
 
 4. Experiments
 4.1 Experimental Setup
