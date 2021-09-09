@@ -9,27 +9,31 @@ to detect, but challenging to AI models. It is also an significant problem to mi
 
 Our main contributions are summarized as follows:
 
-- To the best knowledge, we are the first paper to propose the task of zero-shot multimodal hateful content classification. We proposed a novel model to address the zero-shot multimodal hateful content classification problem. we designed a VAE-GAN model and use the specific class labels as auxiliary semantic information, which help to learn the relationship between specific hateful and non-hateful information.
+- To the best knowledge, we are the first paper to propose the task of zero-shot multimodal hateful content classification. 
+
+- We proposed a novel model to address the zero-shot multimodal hateful content classification problem. We designed a VAE-GAN model and use the specific class labels as auxiliary semantic information, which help to learn the relationship between specific hateful and non-hateful information.
 
 - We re-splited the public FHM dataset based on a zero-shot learning setting and conducted extensive comprehensive experiments compare to the state-of-the-art. Our experiment results demonstrated that our model outperforms the related baseline model and can address the zero-shot multimodal hateful content classification problem effectively.
 
 
 > **3. Proposed Model**
 
-> 3.1 Problem Task Definition
-
-> 3.2 Network Archetecture
+> 3.1 Network Archetecture
 
 ![Image text](https://gitlab.com/dianachu1026/img/-/raw/main/model.jpg)
+
 
 
 > **4. Experiments**
 
 > 4.1 Experimental Setup
 
-Dataset: We conducted experiments on the Hateful Memes (HM) dataset compiled by Facebook AI. Based on zero shot learing setting, we re-splited the dataset and completed experiments in different unseen categories. The detailed information is shown blow. 
+- Dataset: We conducted experiments on the Hateful Memes (HM) dataset compiled by Facebook AI. Based on zero shot learing setting, we re-splited the dataset and completed experiments in different unseen categories. The detailed information is shown blow. 
 
 ![Image text](https://gitlab.com/dianachu1026/img/-/raw/main/dataset.jpg)
+
+- Multimodel and semantic features: 
+
 
 
 > 4.2 Experimental Results
