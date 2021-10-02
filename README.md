@@ -42,9 +42,9 @@ Due Date: 11 Nov. 2021 (WWW2022)
 
 week 1(10.2 - 10.8): 
 
-- Doing some researches about feature fusion approaches and getting corresponding results
+- Doing some researches about feature fusion approaches and finishing a report
 
-- Analysing the importance of cycle consistency loss (Ablation experiments)
+- Analysing the importance of cycle consistency loss (Ablation experiments), completing latest modification and getting corresponding results
 
 - New framework diagram
 
