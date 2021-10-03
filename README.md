@@ -48,15 +48,9 @@ week 1(10.2 - 10.8):
 
 - New framework diagram
 
-week 2(10.9 - 10.15): 
+week 2(10.9 - 10.15): Abstract ddl
 
-week 3(10.16 - 10.22): 
-
-week 4(10.23 - 10.29): 
-
-week 5(10.30 - 11.5): 
-
-week 6(11.6 - 11.12): 
+week 3(10.16 - 10.22): Full paper ddl
 
 
 
